@@ -1,0 +1,7 @@
+.vs/
+obj/*
+Temp/*
+Logs/
+Library/SharedCache/
+Library/StateCache/
+Library/EditorInstance.json
